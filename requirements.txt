@@ -1,9 +1,6 @@
 fuzzywuzzy
-gtts
+gTTS
 playsound
 streamlit
-googletrans
-speechrecognition
-time
-os
-csv
+googletrans==4.0.0-rc1
+SpeechRecognition
