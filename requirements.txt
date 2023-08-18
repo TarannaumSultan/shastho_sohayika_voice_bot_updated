@@ -3,5 +3,5 @@ gTTS
 streamlit
 googletrans==4.0.0-rc1
 SpeechRecognition
-python3-PyAudio
-Portaudio
+python3-pyAudio
+portaudio
