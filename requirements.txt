@@ -1,3 +1,9 @@
 fuzzywuzzy
 gtts
 playsound
+streamlit
+googletrans
+speechrecognition
+time
+os
+csv
