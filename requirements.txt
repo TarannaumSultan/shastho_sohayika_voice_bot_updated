@@ -4,3 +4,5 @@ streamlit
 googletrans==4.0.0-rc1
 SpeechRecognition
 PyAudio==0.2.11
+portaudio19-dev
+os
